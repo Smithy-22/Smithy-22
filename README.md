@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Smithy
-- 👀 I’m interested in languages, frameworks, industries.
-- 🌱 I’m currently learning Economics, Statistics & Data Science.
+- 👋 Hi, I’m Smide ALEIXS
+- 👀 I’m interested in Data, Economics, Trading, frameworks, industries.
+- 🌱 I’m currently learning Economics & Data Science.
+- I want a great life for myself
