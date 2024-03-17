@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Smide ALEIXS
+- 👋 Hi, I’m Smide ALEXIS
 - 👀 I’m interested in Data, Economics, Trading, frameworks, industries.
 - 🌱 I’m currently learning Economics & Data Science.
-- I want a great life for myself
+- 🧞‍♀️ I want a great life for myself
