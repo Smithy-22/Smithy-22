@@ -65,15 +65,6 @@ Formé au **Centre de Techniques de Planification et d'Économie Appliquée (CTP
 
 ---
 
-## 📊 Activité GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Smithy-22&show_icons=true&hide_border=true&theme=tokyonight" alt="Statistiques GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smithy-22&layout=compact&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés">
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p align="center">
