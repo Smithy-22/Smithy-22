@@ -30,6 +30,7 @@ Formé au **Centre de Techniques de Planification et d'Économie Appliquée (CTP
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 <p align="center">
@@ -47,6 +48,7 @@ Formé au **Centre de Techniques de Planification et d'Économie Appliquée (CTP
 | Projet | Ce que j'y démontre | Outils |
 |:--|:--|:--|
 | **[Prédiction de l'atterrissage du Falcon 9 — SpaceX](https://github.com/Smithy-22/Projets_Realises/blob/main/Presentation_de_projet_DS.pdf)** | Collecte, exploration et modèles de classification pour prédire la réussite d'un atterrissage et estimer le coût d'un lancement | Python · scikit-learn |
+| **[Tesla & GameStop — cours de bourse et revenus](https://github.com/Smithy-22/Projets_Realises/blob/main/01-data-science-python/tesla-gamestop-stock-analysis.ipynb)** | Extraction par API et web scraping, structuration en DataFrames et graphiques interactifs comparant valorisation et chiffre d'affaires | Python · BeautifulSoup · yfinance · Plotly |
 | **[Prix de l'immobilier — King County, USA](https://github.com/Smithy-22/Projets_Realises/blob/main/01-data-science-python/king-county-house-sales-regression.pdf)** | Régression linéaire, polynomiale et Ridge sur 21 613 transactions, avec pipelines et validation croisée | Python · pandas · scikit-learn |
 | **[Student Performance Dashboard](https://github.com/Smithy-22/Projets_Realises/blob/main/02-business-intelligence/student-performance-dashboard.pdf)** | Tableau de bord décisionnel interactif : indicateurs clés, segmentations et filtres dynamiques | Power BI |
 | **[Le prix du Bitcoin et les grands agrégats](https://github.com/Smithy-22/Projets_Realises/blob/main/03-econometrie-et-statistiques/bitcoin-agregats-macroeconomiques.pdf)** | Modélisation économétrique sur données trimestrielles 2012–2023 | Économétrie appliquée |
