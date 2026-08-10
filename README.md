@@ -3,7 +3,7 @@
 <h3 align="center">Économiste quantitatif · Data Analyst & Data Scientist · Responsable MEAL</h3>
 
 <p align="center">
-  <em>Je transforme la donnée en décisions — de la collecte à la modélisation,<br>jusqu'au tableau de bord qui éclaire l'action.</em>
+  <em>Je transforme la donnée en décisions - de la collecte à la modélisation,<br>jusqu'au tableau de bord qui éclaire l'action.</em>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Diplômé en **Économie Quantitative** du **Centre de Techniques de Planificati
 - 🛠️ Je travaille principalement avec **Python**, **R**, **SQL**, **Power BI** et **Excel**.
 - 📈 Mes terrains de prédilection : économétrie appliquée, modélisation prédictive, suivi-évaluation (MEAL) et visualisation de données.
 - 🌱 J'approfondis actuellement le machine learning et l'ingénierie de la donnée.
-- 📍 Basé à Port-au-Prince, Haïti — disponible sur site, en hybride ou à distance.
+- 📍 Basé à Port-au-Prince, Haïti -- disponible sur site, en hybride ou à distance.
 
 ---
 
